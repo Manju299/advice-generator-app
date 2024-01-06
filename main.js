@@ -22,6 +22,6 @@ function displayData(adiviseData){
 
 
 
-
+getAdvise();
 btn.addEventListener("click", getAdvise);
 
